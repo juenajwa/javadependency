@@ -1,1 +1,1 @@
-// this is java project to test dependency
+// this is java project to test dependency blablaajsjdhjdschjs
